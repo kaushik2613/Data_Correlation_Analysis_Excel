@@ -13,24 +13,13 @@ determine the interval between occurrences by taking the difference between succ
 times. Consequently, Set 2 will comprise at least 99 inter-arrival times. You may use 'second' as a
 unit of time. You must get the instructor’s permission before collecting data for each project to
 ensure your data's relevance, quality, and accuracy.
+
 Descriptive Statistics: For both Sets 1 and 2, use software to do the following:
 • Calculate the sample mean and sample standard deviation.
 • Calculate the quartiles Q1, Q2, and Q3.
 • Construct a box-and-whisker plot.
 • Construct a frequency table.
 • Construct a frequency histogram.
-2
-Report: The project report is to be typewritten in clear English with complete sentences (Microsoft
-Word format). Be sure to define all notations and include descriptions of all tables and figures in
-the text. It would be best if you considered taking your report to the UTA Writing Center to
-improve your writing. Your report should include a cover page, the following sections, and two
-appendices:
-I. Data. Describe the data collection process for Sets 1 and 2 with enough detail that the reader
-could replicate the process. Appendices I and II should include tables of your raw data for Sets
-1 and 2, respectively. The raw data for Set 2 should consist of the recorded actual clock times.
-II. Descriptive Statistics: Include and explain your descriptive statistics analysis. Interpret the
-results of the analysis using your data application topic. Does Set 1 appear to follow a Normal
-Distribution? Does Set 2 appear to follow an Exponential Distribution?
 
 
 

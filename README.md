@@ -40,5 +40,4 @@ your conclusion.
 <img width="546" height="156" alt="image" src="https://github.com/user-attachments/assets/034e2c48-3ef9-4a60-a369-f72bb64d1ea8" />
 
  Goodness-of-Fit Tests: Describe the chi-square tests with tables for the calculated values and
-clearly stated conclusions. Show the Excel formulas for your table calculations in an
-Appendix.
+clearly stated conclusions.
